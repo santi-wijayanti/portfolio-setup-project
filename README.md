@@ -16,7 +16,7 @@ This repository documents my setup process for Cursor IDE, GitHub, and AI coding
 
 ## Steps Completed
 1. Installed Cursor IDE
-2. Add laude/AI-related extensions available in Cursor (GSAP)
+2. Add Claude/AI-related extensions available in Cursor (GSAP)
 3. Created a GitHub account
 4. Installed Git using Xcode Command Line Tools
 5. Created a GitHub account
